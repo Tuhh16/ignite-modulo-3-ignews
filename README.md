@@ -27,7 +27,7 @@ Tabela de conteúdos
 ## 💻 Sobre o projeto
 
 <p>O projeto é um blog onde você tem a possibilidade de fazer login com a conta do Github criando o OAuth nas configurações da conta pessoal para usar com o <a href="https://next-auth.js.org/">NextAuth.js</a> e realizar uma assinatura mensal na plataforma de pagamento <a href="https://stripe.com/br">Stripe</a> para ter acesso total aos posts que são criados atraves da plataforma do <a href="https://prismic.io/">Prismic CMS</a>.</p>
-<p>Além disso usamos o <a href="https://fauna.com/">Fauna</a> que é um banco de dados que vai ajudar a identificar quando um usuario já está com o plano ativo ou não. <br> No final da pagina tem o link da documentação de todas tecnologias usadas no projeto.</p>
+<p>Além disso usamos o <a href="https://fauna.com/">Fauna</a> que é um banco de dados que vai ajudar a identificar quando um usuário já está com o plano ativo ou não. <br> No final da pagina tem o link da documentação de todas tecnologias usadas no projeto.</p>
 
 ## 🎨 Layout
 
@@ -45,7 +45,7 @@ Tabela de conteúdos
 
 ## 🚀 Como executar o projeto
 
-Este projeto pode ser executado apenas com esse repositorio:<br>
+Este projeto pode ser executado apenas com esse repositório:<br>
 Obs: Na raiz do projeto tem um arquivo .env.example onde mostra exatamente o mesmo modelo que uso para executar o projeto usando as chaves através da variavél de ambiente.<br>
 
 Para criar elas basta seguir os passos da documentação das ferramentas que estão comentadas no arquivo no tópico [Tecnologias](#-tecnologias).
