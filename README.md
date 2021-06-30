@@ -90,7 +90,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **[Fauna](https://docs.fauna.com/fauna/current/start/index.html)**
 -   **[Prismic](https://prismic.io/docs)**
 
-> Veja o arquivo  [package.json](https://github.com/Tuhh16/podcastnextjs/blob/master/package.json)
+> Veja o arquivo  [package.json](https://github.com/Tuhh16/ignite-modulo-3-ignews/blob/master/package.json)
 
 ---
 
